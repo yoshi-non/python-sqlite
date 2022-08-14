@@ -6,6 +6,8 @@
 
 - delete.py : レコード削除
 
+- showPandas : Pandasの表でテーブル表示
+
 ## 型一覧
 
 | 型名 | 情報 |
